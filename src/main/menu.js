@@ -15,6 +15,7 @@ const langMap = {
   ru: 'Pусский',
   tr: 'Türk',
   pl: 'Polish',
+  ja: '日本語',
   'pt-br': 'Brazilian portuguese',
   'zh-CN': '简体中文'
 }
